@@ -1,0 +1,18 @@
+.NavBar--container {
+  text-align: center;
+  background-color: #b80000;
+  margin-top: 0;
+  padding-bottom: 18px;
+  padding-top: 5px;
+  border-top: white 1px solid;
+}
+
+.NavLinks {
+  color: white;
+  margin: 5px;
+  border-bottom: solid white 3px;
+  margin-left: 15px;
+  padding: 2px 2px;
+  display: inline;
+  font-size: 20px;
+}
