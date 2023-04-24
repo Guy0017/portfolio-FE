@@ -1,0 +1,58 @@
+.profile--container {
+  margin: 20px 5%;
+}
+
+.about--title {
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.about--subTitle {
+  color: white;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.about--body {
+  color: white;
+  text-align: justify;
+  margin-top: 20px;
+}
+
+.about--container {
+  margin: 20px 1%;
+}
+
+.image--container {
+  margin: 20px 1%;
+  height: 300px;
+  background: linear-gradient(to right, #0000ff, #33cc33);
+}
+
+.image--symbol {
+  color: black;
+  text-align: center;
+  padding-top: 55px;
+  font-size: 150px;
+  margin: 0;
+}
+
+.hyperlink--container {
+  text-align: center;
+}
+
+.hyperlink {
+  border: white 2px solid;
+  border-color: grey;
+  padding: 5px 8px;
+  margin: 0px 5px;
+  background-color: white;
+
+}
+
+@media screen and (min-width: 600px) {
+  .profile--container {
+    margin: 20px 10%;
+  }
+}

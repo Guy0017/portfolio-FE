@@ -1,3 +1,5 @@
+import "./index.css";
+
 function Header() {
   const name = "Guy";
   const job = "Software Developer";
@@ -15,7 +17,7 @@ function Header() {
             );
           })}
         </div>
-        <h2 className="job">{job}</h2>
+        <h1 className="job">{job}</h1>
       </header>
     </>
   );
