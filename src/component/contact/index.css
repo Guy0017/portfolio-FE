@@ -1,0 +1,60 @@
+.contact--container {
+  margin: 20px 5%;
+  color: white;
+}
+
+.contact--title {
+  text-align: center;
+  text-decoration: underline;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+textarea {
+  height: 150px;
+}
+
+.elementContainer {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.button--container {
+  text-align: center;
+}
+
+.button {
+  border: white 2px solid;
+  border-color: grey;
+  padding: 5px 8px;
+  margin: 0px 5px;
+  background-color: white;
+}
+
+.error--container {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: black;
+  border-top: grey 3px solid;
+  border-bottom: grey 3px solid;
+  background-color: white;
+  position: fixed;
+  width: 100%;
+}
+
+.sentMsg {
+  text-align: center;
+  text-decoration: underline;
+}
+
+@media screen and (min-width: 600px) {
+  .form {
+    margin: 20px 10%;
+  }
+}
