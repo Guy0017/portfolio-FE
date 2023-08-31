@@ -2,7 +2,7 @@ import "./index.css";
 
 function Profile() {
   const job = "Junior Software Developer";
-  const body = `I am Guy, a ${job}. I always had a keen passion for technology. Ever since I built my first desktop, I was fascinated by the world of software behind that hardware. I decided on a career change to Software Developer. I completed the Northcoders Full Stack Software Development course to prepare myself for my journey ahead. My previous experiences brings transferable skills in collaborative teamwork, methodical problem solving and the desire do things right the first time. I am excited for the new opportunities to further develop my knowledge and skills in new technologies and look forward to the challenges ahead working in Software Development.`;
+  const body = `I am Guy, a ${job}. I always had a keen passion for technology. Ever since I built my first desktop, I was fascinated by the user experience enabled by the software behind that hardware. I decided on a career change to Software Developer. I completed the Northcoders Full Stack Software Development course to prepare myself for my journey ahead. My previous experiences brings transferable skills in collaborative teamwork, methodical problem solving and the desire do things right the first time. I am excited for the new opportunities to further develop my knowledge and skills in new technologies and look forward to the challenges ahead working in Software Development.`;
   const location = "Manchester";
   const languages = ["JavaScript", "TypeScript"];
   const stack = [

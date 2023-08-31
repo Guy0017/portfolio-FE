@@ -1,0 +1,43 @@
+.ProjectNav--container {
+  text-align: center;
+  background-color: #b80000;
+  margin-top: 0;
+  padding-bottom: 18px;
+  padding-top: 5px;
+  border-top: white 1px solid;
+  padding-top: 20px;
+}
+
+.ProjectLinks {
+  color: white;
+  margin: 5px;
+  border: solid white 2px;
+  background-color: black;
+  margin-left: 10px;
+  padding: 2px 2px;
+  display: inline;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.projects--container {
+  margin: 20px 5%;
+  color: white;
+  text-align: center;
+}
+
+.intro {
+  text-align: justify;
+  margin-top: 20px;
+  margin: 20px 1%;
+}
+
+.projectLinks:hover {
+  background-color: white;
+}
+
+@media screen and (min-width: 600px) {
+  .projects--container {
+    margin: 20px 10%;
+  }
+}
